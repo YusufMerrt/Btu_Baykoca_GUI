@@ -1,4 +1,6 @@
 # BTU_Saturn_GUI Projesi
+![image](https://github.com/YusufMerrt/Btu_Baykoca_GUI/assets/93128596/64c69362-7895-4f6d-9ec2-dd6df3b9ed8b)
+
 
 ## Genel Bakış
 
